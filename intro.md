@@ -5,3 +5,5 @@ Legend says the place swallowed a whole family one October—no bodies were ever
 The front door is cracked open, and a faint candle flickers inside.
 
 Do you dare to step in?
+
+[The Lost Path: A Journey Through Shadows](Lostpath.md)                                           
