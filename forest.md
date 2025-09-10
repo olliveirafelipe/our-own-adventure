@@ -6,4 +6,4 @@ Suddenly, you hear the faint sound of running water in the distance. On the othe
 
 What will you do?  
 
-- [Turn back to the clearing](intro.md)
+- [Follow the sound of the water](riverbank.md)
