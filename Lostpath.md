@@ -1,10 +1,8 @@
-# The Lost Path: A Journey Through Shadows
+**🌲 The Lost Path: A Journey Through Shadows 🌙**
 
-You wake up in a dark, unfamiliar forest.  
-The air is cold, and the trees whisper as if they’re alive.  
-A faint glow flickers in the distance, while behind you, you hear the sound of rushing water.  
+You awaken beneath a canopy of twisted trees, their branches clawing at the sky like skeletal fingers.
+Behind you, the roar of unseen rapids echoes through the gloom—while ahead, a ghostly light dances just beyond the mist... beckoning.
 
 Your heart races. You know you must make a choice—your survival depends on it.  
 
-What will you do next?
-()
+- [Enter the mysterious forest](forest.md)
