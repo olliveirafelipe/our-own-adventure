@@ -1,0 +1,3 @@
+# The Main Trail
+
+You stay on the trail, ignoring the strange glow. The path grows darker and quieter, until you hear the snap of a twig behind you...
