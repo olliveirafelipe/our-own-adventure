@@ -6,5 +6,7 @@ A ring of stones peeks through the moss to your left—too round to be natural. 
 
 What will you do?
 
+- [Follow the sound of the water](riverbank.md)
 - [Turn back to the clearing](intro.md)
 - [Step into the ring of stones](circle-of-stones.md)
+
