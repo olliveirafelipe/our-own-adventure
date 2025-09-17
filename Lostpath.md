@@ -8,3 +8,7 @@ Your heart races. You know you must make a choice—your survival depends on it.
 
 What will you do next?
 ()
+The shadows seem to twist strangely, making it hard to tell where the path begins.
+
+[Head Toward the River](riverbank.md)
+[Investigate the glow ](TheGlow.md)
